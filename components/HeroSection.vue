@@ -182,7 +182,5 @@ export default {
   background-color:aliceblue ;
 }
 
-.card ul li{
-  background-color: ;
-}
+
 </style>
