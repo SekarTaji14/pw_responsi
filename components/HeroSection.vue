@@ -175,6 +175,14 @@ export default {
 .hero {
   text-align: center;
   padding: 100px 0;
-  background: #f5f5f5;
+  background-color :palevioletred;
+}
+
+.card {
+  background-color:aliceblue ;
+}
+
+.card ul li{
+  background-color: ;
 }
 </style>
